@@ -1,0 +1,9 @@
+/.idea
+/member-service-interface/member-service-interface.iml
+/member-service-spring-boot/member-service-spring-boot.iml
+/member-service.iml
+target
+*.bak
+*.project
+*.settings
+*.classpath
